@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFB_Login</string>
+    <string name="facebook_app_id">625477370943522</string>
+    <string name="please_wait_facebooklogin">please_wait_facebooklogin</string>
+    <string name="login_canceled_facebooklogin">login_canceled_facebooklogin</string>
+    <string name="login_failed_facebooklogin">login_failed_facebooklogin</string>
+    <string name="action_settings">LogOut</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
